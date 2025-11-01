@@ -29,6 +29,10 @@ apksign {
 android {
     namespace = "me.bmax.apatch"
 
+    defaultConfig {
+        applicationId = "com.lenovo.legionzone"
+        }
+
     buildTypes {
         debug {
             isDebuggable = true
