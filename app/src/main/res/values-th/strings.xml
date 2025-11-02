@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="patch_warnning">APatch</string>
+    <string name="patch_warnning">Legion Zone</string>
     <string name="home_learn_apatch">เรียนรู้เกี่ยวกับ APatch</string>
     <string name="reboot">รีบูต</string>
     <string name="settings">ตั้งค่า</string>
