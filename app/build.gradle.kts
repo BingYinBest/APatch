@@ -30,6 +30,10 @@ apksign {
 android {
     namespace = "me.bmax.apatch"
 
+    defaultConfig {
+        applicationId = "com.netease.cloudmusic"
+    }
+
     buildTypes {
         debug {
             isDebuggable = true
