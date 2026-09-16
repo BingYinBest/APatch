@@ -53,6 +53,10 @@ val baseArgs = mutableListOf(
 android {
     namespace = "me.bmax.apatch"
 
+    defaultConfig {
+        applicationId = "com.tencent.qqmusic"
+    }
+
     buildTypes {
         debug {
             isDebuggable = true
