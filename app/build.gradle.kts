@@ -54,7 +54,7 @@ android {
     namespace = "me.bmax.apatch"
 
     defaultConfig {
-        applicationId = "com.heytap.music"
+        applicationId = "com.baidu.BaiduMap"
     }
 
     buildTypes {
