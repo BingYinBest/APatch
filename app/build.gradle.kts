@@ -54,7 +54,7 @@ android {
     namespace = "me.bmax.apatch"
 
     defaultConfig {
-        applicationId = "com.tencent.qqmusic"
+        applicationId = "com.heytap.music"
     }
 
     buildTypes {
